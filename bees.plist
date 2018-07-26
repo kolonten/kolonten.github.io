@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://bees.sgrice.net/ios/bees.ipa</string>
+<string>http://downloads.bess-wallet.com/ios/bees.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://bees.sgrice.net/ios/bees.png</string>
+<string>http://downloads.bess-wallet.com/ios/bees.png</string>
 </dict>
 </array>
 <key>metadata</key> 
