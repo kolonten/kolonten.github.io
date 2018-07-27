@@ -25,13 +25,13 @@
 <key>metadata</key> 
 <dict>
 <key>bundle-identifier</key>
-<string>jyb.nfgjqht</string>
+<string>BeesWallet</string>
 <key>bundle-version</key>
 <string>2.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>BEES WALLTE App</string>
+<string>BeesWallet</string>
 </dict>
 </dict>
 </array>
