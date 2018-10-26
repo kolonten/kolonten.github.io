@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://yun.yirubb.com/app2/download/ios/usdt.ipa</string>
+<string>http://yun.yirubb.com/app2/ios/usdt.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://yun.yirubb.com/app2/download/index/usdt.png</string>
+<string>http://yun.yirubb.com/app2/index/usdt.png</string>
 </dict>
 </array>
 <key>metadata</key> 
