@@ -2,38 +2,40 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>http://xz.sgrice.net/ios/huaxia.ipa</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>needs-shine</key>
-<false/>
-<key>url</key>
-<string>http://xz.sgrice.net/index/huaxia.png</string>
-</dict>
-</array>
-<key>metadata</key> 
-<dict>
-<key>bundle-identifier</key>
-<string>com.yibo.app.d341</string>
-<key>bundle-version</key>
-<string>2.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>huaxia</string>
-</dict>
-</dict>
-</array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://www.tbrkbj.cn/data/attachment/2-1551114854.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://www.tbrkbj.cn/data/attachment/2-1551114854.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yh777666.m</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
+				<key>title</key>
+				<string>银河娱乐</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
